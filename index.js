@@ -56,8 +56,8 @@ function makeSound(key){
          
          
          case "l":
-         var crash=new Audio('sounds/kick-bass.mp3');
-          crash.play();
+         var beats=new Audio('sounds/beat-of-time-128705.mp3');
+          beats.play();
          break;
          
       default: console.log(buttonInnerHTML);
