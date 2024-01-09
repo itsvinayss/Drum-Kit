@@ -56,7 +56,7 @@ function makeSound(key){
          
          
          case "l":
-         var beats=new Audio('sounds/beat-of-time-128705.mp3');
+         var beats=new Audio('sounds/mixkit-soft-horror-hit-drum-564.wav');
           beats.play();
          break;
          
